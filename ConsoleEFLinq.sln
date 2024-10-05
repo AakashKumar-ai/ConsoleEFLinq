@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEFLinq", "ConsoleEFLinq.csproj", "{D1BD8C1D-62C1-4660-B4A9-8975C4A78063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BD8C1D-62C1-4660-B4A9-8975C4A78063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BD8C1D-62C1-4660-B4A9-8975C4A78063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BD8C1D-62C1-4660-B4A9-8975C4A78063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BD8C1D-62C1-4660-B4A9-8975C4A78063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF06E84-3140-492B-94AC-CB3DBA22E152}
+	EndGlobalSection
+EndGlobal
